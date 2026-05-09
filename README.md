@@ -1,6 +1,6 @@
 # Infrastructure State Storage
 
-Manages the secure storage location used to track the current state of all CBC infrastructure.
+Manages the secure storage location used to track the current state of all infrastructure.
 
 ## What it does
 
